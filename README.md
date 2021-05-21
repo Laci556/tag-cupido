@@ -17,6 +17,9 @@ A weboldal React-el készült és a Firebase adatbázisába mentette az üzenete
 ![](5.png)
 
 Így néztek ki a kiküldött emailek:
+
 ![](6.png)
+
+És ilyen volt egy megnyitott üzenet (természetesen a gif mellett szöveges üzenetet is lehetett írni, az a kép fölött foglalt helyet):
 
 ![](7.png)
